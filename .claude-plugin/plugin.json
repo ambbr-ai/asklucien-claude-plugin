@@ -1,0 +1,18 @@
+{
+  "name": "asklucien",
+  "version": "1.0.0",
+  "description": "Ask Lucien to phone a business or someone you know on your behalf, in 83 languages, then read the answer in the conversation.",
+  "author": {
+    "name": "AMBBR",
+    "email": "hello@asklucien.com",
+    "url": "https://asklucien.com"
+  },
+  "homepage": "https://asklucien.com",
+  "license": "MIT",
+  "keywords": ["phone calls", "restaurants", "hotels", "shops", "multilingual"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://app.asklucien.com/integrations/claude",
+  "supportUrl": "https://asklucien.com/contact",
+  "privacyPolicyUrl": "https://asklucien.com/privacy",
+  "termsOfServiceUrl": "https://asklucien.com/terms"
+}

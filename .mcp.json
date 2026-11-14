@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "asklucien": {
+      "type": "http",
+      "url": "https://app.asklucien.com/api/claude/mcp"
+    }
+  }
+}
