@@ -1,5 +1,6 @@
 {
   "name": "asklucien",
+  "displayName": "AskLucien",
   "version": "1.0.0",
   "description": "Ask Lucien to phone a business or someone you know on your behalf, in 83 languages, then read the answer in the conversation.",
   "author": {
@@ -9,7 +10,13 @@
   },
   "homepage": "https://asklucien.com",
   "license": "MIT",
-  "keywords": ["phone calls", "restaurants", "hotels", "shops", "multilingual"],
+  "keywords": [
+    "phone calls",
+    "restaurants",
+    "hotels",
+    "shops",
+    "multilingual"
+  ],
   "icon": "./assets/icon.png",
   "documentationUrl": "https://app.asklucien.com/integrations/claude",
   "supportUrl": "https://asklucien.com/contact",
